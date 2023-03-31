@@ -1,1 +1,21 @@
-
+header{
+  color: white;
+}
+body{
+  color: maroon;
+}
+p{ 
+  color: limegreen;
+}
+ul{
+  color: white;
+}
+ol{
+  color: white;
+}
+footer{
+  color: limegreen;
+}
+h1{
+  color: white;
+}
